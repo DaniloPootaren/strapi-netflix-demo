@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_widget_navigations",
+  "info": {
+    "displayName": "navigation",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "menu": {
+      "type": "enumeration",
+      "enum": [
+        "Drama",
+        "Romance",
+        "Thriller",
+        "Action",
+        "Comedy"
+      ],
+      "required": true
+    }
+  }
+}
